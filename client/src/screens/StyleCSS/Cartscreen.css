@@ -1,0 +1,20 @@
+.fa-plus-square{
+    color: green;
+    margin: 7px;
+  }
+  
+  .fa-minus-square{
+    color: red !important;
+    margin: 7px;
+  }
+  
+  .cart-layout{
+    text-align: left;
+  }
+
+ .buttonclass{
+   padding-left: 540px !important;
+   margin-top: -14%; 
+   position: absolute;
+   
+ }

@@ -1,0 +1,16 @@
+.adminpanel{
+    padding: 10px;
+    background-color:#053742;
+}
+
+.adminpanel li {
+    list-style-type: none !important;
+    display: inline !important;
+   
+}
+
+.adminpanel li a{
+    color: white !important;
+    text-decoration: none !important;
+    padding: 20px;
+}

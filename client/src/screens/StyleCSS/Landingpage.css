@@ -1,0 +1,48 @@
+
+#title{
+    color: blue;
+    background-color:#FFA900;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+#title h2{
+    font-size: 50px;
+    font-weight: bold;
+    color: black;
+    padding-right: 50%;
+}
+
+#title h1{
+    font-size: 29px;
+    font-weight: 500;
+    color: black;
+    padding-right: 62%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+
+}
+
+#title a{
+    margin-right: 75%;
+}
+
+
+/* #title img{
+    height: 400px;
+    width: 400px;
+    margin-top: -11% !important;
+    margin-bottom: 2% !important;
+    border-radius: 8px;
+    margin-left: 55% !important;
+} */
+/* 
+#footer{
+    
+} */
+
+@media (min-width: 600px) {
+    #title h2{
+        text-align: center !important;
+    }
+  }

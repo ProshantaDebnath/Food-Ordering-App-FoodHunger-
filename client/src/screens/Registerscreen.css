@@ -1,0 +1,17 @@
+input{
+    margin-top: 10px !important;
+    border-radius: 10px !important;
+    /* box-shadow: none !important; */
+}
+
+.btn1{
+    background-color: #00aeff !important;  
+    margin-top: 10px;
+    border-radius: 5px;
+    margin-right: 500px;
+
+}
+
+h2{
+    font-size: 28px;
+}

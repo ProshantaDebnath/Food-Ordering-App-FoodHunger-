@@ -1,0 +1,21 @@
+h1{
+    font-size: 20px;
+}
+
+img{
+    height: 150px;
+    width: 150px;
+}
+
+.flex-container{
+    display: flex !important;
+}
+
+.btn{
+    background-color: rgb(240, 44, 44) !important;
+    color: #fff !important;
+    text-align: center;
+    font-size: 16px;
+    /* size: 10px !important; */
+    
+}
